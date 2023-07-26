@@ -22,3 +22,5 @@ const b = Singleton.getInstance('kiki');
 b.logName(); // dave
 
 console.log(a === b); // true
+
+export {};
